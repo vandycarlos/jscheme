@@ -9,3 +9,8 @@
 ## roadmap
 
 没有任何计划，仅仅是喜欢scheme。
+
+## tests
+
+test/r4rs.scm 来自于 github.com/cndreisbach/lemur-scheme
+
