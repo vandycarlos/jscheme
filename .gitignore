@@ -1,3 +1,8 @@
 .idea
 *.iml
 out
+repl.jar
+classes
+tests/tmp1
+tests/tmp2
+
